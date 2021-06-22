@@ -1,4 +1,4 @@
-# Light_Image_Segmentation_By_Mask_RCNN
+# Light_Field_Image_Segmentation_By_Mask_RCNN
 User Instruction:
 1. Import the ipynb file and the mrcnn folder into google colab. The ipynb contains the main architecture of of the segmentation code. The mrcnn folder contains the main code of modified Mask-RCNN. 
 2. The train dataset can be downloaded from Kaggle 2018, https://www.kaggle.com/c/data-science-bowl-2018, the stage1_train.zip.
